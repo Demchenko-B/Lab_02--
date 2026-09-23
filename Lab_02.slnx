@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab_02/Lab_02.vcxproj" Id="d3ac379e-9e6a-4424-8a8f-940e712d677f" />
+</Solution>
